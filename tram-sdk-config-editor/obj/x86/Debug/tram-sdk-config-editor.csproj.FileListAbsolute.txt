@@ -1,0 +1,17 @@
+C:\Users\Poga\AppData\Local\Temporary Projects\tram-sdk-config-editor\bin\Debug\tram-sdk-config-editor.exe
+C:\Users\Poga\AppData\Local\Temporary Projects\tram-sdk-config-editor\bin\Debug\tram-sdk-config-editor.pdb
+C:\Users\Poga\AppData\Local\Temporary Projects\tram-sdk-config-editor\obj\x86\Debug\tram_sdk_config_editor.Properties.Resources.resources
+C:\Users\Poga\AppData\Local\Temporary Projects\tram-sdk-config-editor\obj\x86\Debug\tram-sdk-config-editor.csproj.GenerateResource.Cache
+C:\Users\Poga\AppData\Local\Temporary Projects\tram-sdk-config-editor\obj\x86\Debug\tram-sdk-config-editor.exe
+C:\Users\Poga\AppData\Local\Temporary Projects\tram-sdk-config-editor\obj\x86\Debug\tram-sdk-config-editor.pdb
+C:\Users\Poga\AppData\Local\Temporary Projects\tram-sdk-config-editor\obj\x86\Debug\tram_sdk_config_editor.MainForm.resources
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram-sdk-config-editor.exe
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram-sdk-config-editor.pdb
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\bin\Debug\tram-sdk-config-editor.exe
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\bin\Debug\tram-sdk-config-editor.pdb
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram_sdk_config_editor.MainForm.resources
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram_sdk_config_editor.Properties.Resources.resources
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram-sdk-config-editor.csproj.GenerateResource.Cache
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram_sdk_config_editor.EditorAboutBox.resources
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram_sdk_config_editor.SpriteEditor.resources
+C:\Users\Poga\documents\visual studio 2010\Projects\tram-sdk-config-editor\tram-sdk-config-editor\obj\x86\Debug\tram_sdk_config_editor.RenamePrompt.resources
